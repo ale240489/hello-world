@@ -1,0 +1,15 @@
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\bin\Debug\net6.0\example01_HelloWorld.exe
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\bin\Debug\net6.0\example01_HelloWorld.deps.json
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\bin\Debug\net6.0\example01_HelloWorld.runtimeconfig.json
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\bin\Debug\net6.0\example01_HelloWorld.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\bin\Debug\net6.0\example01_HelloWorld.pdb
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.AssemblyInfo.cs
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\refint\example01_HelloWorld.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.pdb
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\example01_HelloWorld.genruntimeconfig.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\lesson1\example01_HelloWorld\obj\Debug\net6.0\ref\example01_HelloWorld.dll
